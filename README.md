@@ -4,16 +4,19 @@ Regarding copyright there are multiple parts (the English transl., the scans of 
 LICENSE → the copyright that applies to (1) and (4) below as (2) and (3) are in the public domain.  
 NOTICE → redundant file listing same source materials below  
   
-1. English translation:
-   © Kosta Hadavas / Board of Regents of the University of Wisconsin System
+1. **English** translation:
+   Nuremberg Chronicle translated in English
+   Translation by Kosta Hadavas
+   Published / hosted by the Board of Regents of the University of Wisconsin System
+   (University of Wisconsin Digital Collections, Morse Library, Beloit College)
    Licensed under CC BY-NC 4.0
   
-2. Latin source material:
-   Liber Chronicarum (Nuremberg Chronicle, 1493)
+2. **Latin** source material:
+   *Liber Chronicarum* (Nuremberg Chronicle, 1493)
    Public domain
 
-3. German source material:
-   Die Schedelsche Weltchronik (Nuremberg Chronicle, 1493)
+3. **German** source material:
+   *Die Schedelsche Weltchronik* (Nuremberg Chronicle, 1493)
    Public domain
   
 5. Editorial work (typesetting, alignment, structure, scripts):
