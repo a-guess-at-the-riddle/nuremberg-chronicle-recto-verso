@@ -13,7 +13,7 @@ NOTICE → redundant file listing same source materials below
    Public domain
 
 3. German source material:
-   Schedel’sche Weltchronik (Nuremberg Chronicle, 1493)
+   Die Schedelsche Weltchronik (Nuremberg Chronicle, 1493)
    Public domain
   
 5. Editorial work (typesetting, alignment, structure, scripts):
